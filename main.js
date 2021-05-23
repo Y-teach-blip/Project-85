@@ -13,7 +13,7 @@ car2_img = "car2.png";
 car2_x = 10;
 car2_y = 300;
 
-background_image = "background.jpg";
+background_image = "racing.jpg";
 
 
 function add () {
